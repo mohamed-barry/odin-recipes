@@ -19,7 +19,15 @@ h1{
     text-align: center;
     color:brown;
     text-decoration: underline overline;
+    font-size:55px;
     
+}
+
+h3{
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    color:seagreen;
 }
 li{
     font-weight: 800;
@@ -27,7 +35,7 @@ li{
 }
 h2{
     font-weight: 500;
-    font-size: 50px;
+    font-size: 40px;
     color:blueviolet;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -38,3 +46,19 @@ h2{
 .home-list{
     list-style: none;
 }
+.home{
+    background-color: beige;
+}
+.home-link{
+    font-weight: 900;
+    font-size:35px;
+    background-color: greenyellow;
+    border: 10%;
+    border-radius: 10%;
+    outline-color:black ;
+
+}
+a:link{text-decoration: none;}
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
