@@ -21,3 +21,13 @@ h1{
     text-decoration: underline overline;
     
 }
+li{
+    font-weight: 800;
+    font-family: monospace;
+}
+h2{
+    font-weight: 500;
+    font-size: 50px;
+    color:blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+}
